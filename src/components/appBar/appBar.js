@@ -19,7 +19,7 @@ function SimpleAppBar(props) {
          <AppBar position='fixed' color='primary'>
             <Toolbar>
                <Typography variant='h6' color='inherit'>
-                  Indicadores Financieros
+                  Precio del Dólar
                </Typography>
             </Toolbar>
          </AppBar>

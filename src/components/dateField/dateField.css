@@ -1,0 +1,12 @@
+.dateField {
+   font-size: 0.7rem;
+}
+
+.dateField input {
+   font-size: 0.7rem;
+   width: 25%;
+}
+
+input[type="date" i] {
+   border-radius: 5px;
+}
